@@ -3,7 +3,7 @@
 
 <!-- <a href="[연결할 링크" target="_blank"> -->
   
-<img src="https://img.shields.io/badge/Javascript-[컬러 코드]?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 
 #### 프레임워크
