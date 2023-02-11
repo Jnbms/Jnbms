@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```(javascript)
 {
   "name": "cho, chan gi",
   "position": "frontend developer",
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
   "love": ["performance improvement", "share with others"],
   "hobby": ["algorithm", "hiking"]
 }
+```
