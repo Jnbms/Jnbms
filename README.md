@@ -4,6 +4,13 @@
 <!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tavascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-F7DF1E?style=flat-square&logo=dart&logoColor=white"/>
+
+
 
 
 #### 프레임워크
