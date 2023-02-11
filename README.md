@@ -1,21 +1,20 @@
-### Hi there 👋
+#### 스킬(언어)
+자바스크립트, 타입스크립트, 자바, 코틀린, 파이썬, 다트
 
-<!--
-**jnbms/jnbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 프레임워크
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 #### 교육
 - 대림대학교 전자공학 전공
 - 코리아 IT 아카데미(프론트엔드, 모바일, 백엔드)
 - 원티드 프리 온 보딩 1월(프론트엔드, 백엔드)
+
+#### 자격증
+- 정보처리산업기사(필기)
+- 컴퓨터 그래픽스 기능사
+- 웹디자인 기능사
+- 리눅스 마스터
+- 네트워크 관리사
+- SQLD
+
