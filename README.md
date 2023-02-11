@@ -1,6 +1,9 @@
 #### 스킬(언어)
 자바스크립트, 타입스크립트, 자바, 코틀린, 파이썬, 다트
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+
 #### 프레임워크
 
 
