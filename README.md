@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 교육
+- 대림대학교 전자공학 전공
+- 코리아 IT 아카데미(프론트엔드, 모바일, 백엔드)
+- 원티드 프리 온 보딩 1월(프론트엔드, 백엔드)
