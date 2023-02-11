@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+{
+  "name": "cho, chan gi",
+  "position": "frontend developer",
+  "tech-stack": {
+    "frontend": [
+      "typescript",
+      "javascript",
+      "react",
+      "redux",
+      "animation",
+      "socket"
+    ],
+    "backend": ["nodejs", "express", "socket"],
+    "database": ["mongo", "mysql"]
+  },
+  "motto": "never stop, getting better",
+  "love": ["performance improvement", "share with others"],
+  "hobby": ["algorithm", "hiking"]
+}
