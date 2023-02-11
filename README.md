@@ -1,6 +1,9 @@
 #### 스킬(언어)
 자바스크립트, 타입스크립트, 자바, 코틀린, 파이썬, 다트
-<img src="https://img.shields.io/badge/Javascript?style=flat-square&logo=javascript&logoColor=white"/></a>
+
+<!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
+
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 
 #### 프레임워크
