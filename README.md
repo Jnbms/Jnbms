@@ -1,5 +1,4 @@
-#### 스킬(언어)
-자바스크립트, 타입스크립트, 자바, 코틀린, 파이썬, 다트
+#### 스킬
 
 <!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
