@@ -24,7 +24,15 @@
 - 원티드 프리 온 보딩 2월(프론트엔드 TYPESCRIPT, 백엔드 SQL, 안드로이드 COMPOSE UI)
 
 #### 자격증
-- 정보처리산업기사(필기)
+<div>
+  <img src="https://img.shields.io/badge/정보처리산업기사(필기)-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-6CD74A?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</div>
+- 
 - 컴퓨터 그래픽스 기능사
 - 웹디자인 기능사
 - 리눅스 마스터
