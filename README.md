@@ -11,16 +11,18 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <span/>
  
-#### 교육
-- 대림대학교 전자공학 전공
-- 코리아 IT 아카데미(프론트엔드, 모바일, 백엔드)
-- 원티드 프리 온 보딩 1월(프론트엔드 REACT QUERTY, 백엔드 NEST JS PORTS AND ADAPTER PATTERN)
-- 원티드 프리 온 보딩 2월(프론트엔드 TYPESCRIPT, 백엔드 SQL, 안드로이드 COMPOSE UI)
-
-#### 자격증
+  #### 자격증
 <img src="https://img.shields.io/badge/정보처리산업기사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 <img src="https://img.shields.io/badge/웹디자인기능사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 <img src="https://img.shields.io/badge/리눅스마스터-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 <img src="https://img.shields.io/badge/네트워크관리사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLD-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
+
+
+  
+#### 교육
+- 대림대학교 전자공학 전공
+- 코리아 IT 아카데미(프론트엔드, 모바일, 백엔드)
+- 원티드 프리 온 보딩 1월(프론트엔드 REACT QUERTY, 백엔드 NEST JS PORTS AND ADAPTER PATTERN)
+- 원티드 프리 온 보딩 2월(프론트엔드 TYPESCRIPT, 백엔드 SQL, 안드로이드 COMPOSE UI)
 
