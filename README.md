@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </div>
 
-
-
-#### 프레임워크
-
-
-
 #### 교육
 - 대림대학교 전자공학 전공
 - 코리아 IT 아카데미(프론트엔드, 모바일, 백엔드)
