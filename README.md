@@ -1,9 +1,8 @@
 <!-- 뱃지 -->
 <!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
-
+#### 스킬
 <span>
-  스킬
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-6CD74A?style=flat-square&logo=java&logoColor=white"/>
@@ -20,11 +19,8 @@
 
 #### 자격증
 <img src="https://img.shields.io/badge/정보처리산업기사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
-
-- 
-- 컴퓨터 그래픽스 기능사
-- 웹디자인 기능사
-- 리눅스 마스터
-- 네트워크 관리사
-- SQLD
+<img src="https://img.shields.io/badge/웹디자인기능사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
+<img src="https://img.shields.io/badge/리눅스마스터-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
+<img src="https://img.shields.io/badge/네트워크관리사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLD-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 
