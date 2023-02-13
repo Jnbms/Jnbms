@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <p/>
-#### 자격증
+### 자격증
 <p>
   <img src="https://img.shields.io/badge/정보처리산업기사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
   <img src="https://img.shields.io/badge/웹디자인기능사-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
